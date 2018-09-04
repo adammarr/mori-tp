@@ -7,7 +7,7 @@
 </head>
 <body>
     <div id="ss-container">
-        <div id="ss-wrapper">
+        <div id="ss-wrapper" class="invisible hide">
             <div id="ss">
                 <div id="sun"></div>
                 <div id="mercury" class="rotation">
@@ -67,18 +67,38 @@
 
         <div id="ss-info">
             <div class="ss-info-hm"></div>
-            <h2>Lorem Ispum</h2>
-            <p>
-                Aenean congue euismod dapibus. Proin non sollicitudin magna, eu tincidunt urna. Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit. Duis accumsan tortor dui, vel aliquam quam fermentum eget. Fusce in ex id justo hendrerit iaculis. Vestibulum
-                cursus bibendum nisi. Sed molestie facilisis elementum. Aenean mattis ipsum a molestie tempor.
-            </p>
-            <ul>
-                <li class="ss-sel-venus">Venus</li>
-                <li class="ss-sel-jupiter">Jupiter</li>
-                <li class="ss-sel-neptune">Neptune</li>
-            </ul>
+            <div id="ss-info-ml">
+                <ul>
+                    <li data-planet="venus"><span>Atmospheric Infrared Sounder (AIRS)</span></li>
+                    <li data-planet="venus"><span>Computer Aided Engineering (MCAE, ECAE)</span></li>
+                    <li data-planet="mars"><span>Grace Follow On Laser Ranging Interferometer</span></li>
+                    <li data-planet="jupiter"><span>InSight</span></li>
+                    <li data-planet="saturn"><span>JASON-3</span></li>
+                    <li data-planet="jupiter" data-mission="juno"><span>Juno</span></li>
+                    <li data-planet="neptune"><span>Mars Exploration Rover (MER)</span></li>
+                    <li data-planet="venus"><span>Mars Climate Sounder</span></li>
+                    <li data-planet="venus"><span>Mars Reconnaissance Orbiter (MRO)</span></li>
+                    <li data-planet="mars"><span>Mars Science Laboratory (MSL)</span></li>
+                    <li data-planet="jupiter"><span>Mars 2020</span></li>
+                    <li data-planet="saturn"><span>Maven</span></li>
+                    <li data-planet="uranus"><span>Odyssey</span></li>
+                    <li data-planet="neptune"><span>OSIRIS-REx</span></li>
+                    <li data-planet="jupiter"><span>Soil Moisture Active Passive (SMAP)</span></li>
+                    <li data-planet="saturn"><span>Spitzer</span></li>
+                    <li data-planet="neptune"><span>Surface Water Ocean Topography (SWOT)</span></li>
+                </ul>
+            </div>
+            <div id="ss-m-name"></div>
+            <div id="ss-m-info">
+                <div id="ss-m-launch">Launch Date: <span></span></div>
+                <div id="ss-m-lifespan">Mission Life Span: <span></span></div>
+                <div id="ss-m-support">MORI Support: <span></span></div>
+                <div id="ss-m-stats" class="ss-m-holdover">Flight Stats: <span></span></div>
+                <div id="ss-m-planet">Destination: <span></span></div>
+                <div id="ss-m-overview">Mission Overview: <span></span></div>
+            </div>
         </div>
+        <div id="ss-img-cache"></div>
     </div>
-<script type="text/javascript" src="bundle.63f0880d956956ed53c6.js"></script></body>
+<script type="text/javascript" src="bundle.e8e5bdf5905aa8ab6ca7.js"></script></body>
 </html>

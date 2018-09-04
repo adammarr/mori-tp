@@ -1,0 +1,10 @@
+{
+    "juno" : {
+        "planet": "Jupiter",
+        "launch": "Aug. 5, 2011",
+        "lifespan": "7 years",
+        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
+        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
+        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+    }
+}
