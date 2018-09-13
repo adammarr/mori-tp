@@ -7,99 +7,113 @@
     <base href="/mori-tp/">
 </head>
 <body>
-    <div id="ss-container">
-        <div id="ss-wrapper" class="invisible hide">
-            <div id="ss">
-                <div id="sun"></div>
-                <div id="mercury" class="rotation">
-                    <div class="planet-container">
-                        <div class="planet">
+    <div id="ss-mori">
+        <div id="ss-container">
+            <div id="ss-wrapper" class="invisible hide">
+                <div id="ss">
+                    <div id="sun"></div>
+                    <div id="mercury" class="rotation">
+                        <div class="planet-container">
+                            <div class="planet">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div id="venus" class="rotation">
-                    <div class="planet-container">
-                        <div class="planet">
+                    <div id="venus" class="rotation">
+                        <div class="planet-container">
+                            <div class="planet">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div id="earth" class="rotation">
-                    <div class="planet-container">
-                        <div class="planet">
+                    <div id="earth" class="rotation">
+                        <div class="planet-container">
+                            <div class="planet">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div id="mars" class="rotation">
-                    <div class="planet-container">
-                        <div class="planet">
+                    <div id="mars" class="rotation">
+                        <div class="planet-container">
+                            <div class="planet">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div id="jupiter" class="rotation">
-                    <div class="planet-container">
-                        <div class="planet">
+                    <div id="jupiter" class="rotation">
+                        <div class="planet-container">
+                            <div class="planet">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div id="saturn" class="rotation">
-                    <div class="planet-container">
-                        <div class="planet">
-                            <div class="rings"></div>
+                    <div id="saturn" class="rotation">
+                        <div class="planet-container">
+                            <div class="planet">
+                                <div class="rings"></div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div id="uranus" class="rotation">
-                    <div class="planet-container">
-                        <div class="planet">
+                    <div id="uranus" class="rotation">
+                        <div class="planet-container">
+                            <div class="planet">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div id="neptune" class="rotation">
-                    <div class="planet-container">
-                        <div class="planet">
+                    <div id="neptune" class="rotation">
+                        <div class="planet-container">
+                            <div class="planet">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <div id="focus-planet"></div>
-        <div id="focus-earth"></div>
+            <div id="focus-planet"></div>
+            <div id="focus-earth"></div>
+            <canvas id="ss-canvas"></canvas>
 
-        <div id="ss-info">
-            <div class="ss-info-hm"></div>
-            <div id="ss-info-ml">
-                <ul>
-                    <li data-planet="venus"><span>Atmospheric Infrared Sounder (AIRS)</span></li>
-                    <li data-planet="venus"><span>Computer Aided Engineering (MCAE, ECAE)</span></li>
-                    <li data-planet="mars"><span>Grace Follow On Laser Ranging Interferometer</span></li>
-                    <li data-planet="jupiter"><span>InSight</span></li>
-                    <li data-planet="saturn"><span>JASON-3</span></li>
-                    <li data-planet="jupiter" data-mission="juno"><span>Juno</span></li>
-                    <li data-planet="neptune"><span>Mars Exploration Rover (MER)</span></li>
-                    <li data-planet="venus"><span>Mars Climate Sounder</span></li>
-                    <li data-planet="venus"><span>Mars Reconnaissance Orbiter (MRO)</span></li>
-                    <li data-planet="mars"><span>Mars Science Laboratory (MSL)</span></li>
-                    <li data-planet="jupiter"><span>Mars 2020</span></li>
-                    <li data-planet="saturn"><span>Maven</span></li>
-                    <li data-planet="uranus"><span>Odyssey</span></li>
-                    <li data-planet="neptune"><span>OSIRIS-REx</span></li>
-                    <li data-planet="jupiter"><span>Soil Moisture Active Passive (SMAP)</span></li>
-                    <li data-planet="saturn"><span>Spitzer</span></li>
-                    <li data-planet="neptune"><span>Surface Water Ocean Topography (SWOT)</span></li>
-                </ul>
+            <div id="ss-info">
+                <div class="ss-info-hm"></div>
+                <div id="ss-info-ml">
+                    <div class="ss-info-col">
+                        <ul>
+                            <li data-planet="venus"><span>Atmospheric Infrared Sounder (AIRS)</span></li>
+                            <li data-planet="venus"><span>Computer Aided Engineering (MCAE, ECAE)</span></li>
+                            <li data-planet="mars"><span>Grace Follow On Laser Ranging Interferometer</span></li>
+                            <li data-planet="jupiter"><span>InSight</span></li>
+                            <li data-planet="saturn"><span>JASON-3</span></li>
+                            <li data-planet="jupiter" data-mission="juno"><span>Juno</span></li>
+                        </ul>
+                    </div>
+                    <div class="ss-info-col">
+                        <ul>
+                            <li data-planet="neptune"><span>Mars Exploration Rover (MER)</span></li>
+                            <li data-planet="venus"><span>Mars Climate Sounder</span></li>
+                            <li data-planet="venus"><span>Mars Reconnaissance Orbiter (MRO)</span></li>
+                            <li data-planet="mars"><span>Mars Science Laboratory (MSL)</span></li>
+                            <li data-planet="jupiter"><span>Mars 2020</span></li>
+                            <li data-planet="saturn"><span>Maven</span></li>
+                        </ul>
+                    </div>
+                    <div class="ss-info-col">
+                        <ul>
+                            <li data-planet="uranus"><span>Odyssey</span></li>
+                            <li data-planet="neptune"><span>OSIRIS-REx</span></li>
+                            <li data-planet="jupiter"><span>Soil Moisture Active Passive (SMAP)</span></li>
+                            <li data-planet="saturn"><span>Spitzer</span></li>
+                            <li data-planet="neptune"><span>Surface Water Ocean Topography (SWOT)</span></li>
+                        </ul>
+                    </div>
+                    
+                </div>
+                <div id="ss-m-name"></div>
+                <div id="ss-m-info">
+                    <div id="ss-m-launch">Launch Date: <span></span></div>
+                    <div id="ss-m-lifespan">Mission Life Span: <span></span></div>
+                    <div id="ss-m-support">MORI Support: <span></span></div>
+                    <div id="ss-m-stats" class="ss-m-holdover">Flight Stats: <span></span></div>
+                    <div id="ss-m-planet">Destination: <span></span></div>
+                    <div id="ss-m-overview">Mission Overview: <span></span></div>
+                </div>
             </div>
-            <div id="ss-m-name"></div>
-            <div id="ss-m-info">
-                <div id="ss-m-launch">Launch Date: <span></span></div>
-                <div id="ss-m-lifespan">Mission Life Span: <span></span></div>
-                <div id="ss-m-support">MORI Support: <span></span></div>
-                <div id="ss-m-stats" class="ss-m-holdover">Flight Stats: <span></span></div>
-                <div id="ss-m-planet">Destination: <span></span></div>
-                <div id="ss-m-overview">Mission Overview: <span></span></div>
-            </div>
+            <div id="ss-img-cache"></div>
         </div>
-        <div id="ss-img-cache"></div>
     </div>
-<script type="text/javascript" src="bundle.14a2b16dffbe2749a6cf.js"></script></body>
+<script type="text/javascript" src="bundle.0778a51e342ceb51a7cd.js"></script></body>
 </html>
