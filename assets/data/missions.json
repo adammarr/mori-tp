@@ -2,145 +2,154 @@
     "airs" : {
       "name": "Atmospheric Infrared Sounder (AIRS)",
       "planet": "Earth",
-      "launch": "Aug. 5, 2011",
+      "launch": "May 4, 2002",
       "lifespan": "7 years",
-      "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-      "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-      "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+      "support": "MORI operates and sustains AIRS making sure its computer hardware and software, data storage, and ground-based IT network is secure and providing critical weather prediction information.",
+      "stats": "",
+      "overview": "AIRS uses Infrared Technology to create 3D maps of air and surface temperature, water vapor, and clouds to improve weather forecasting and climate research."
     },
     "gfo" : {
         "name": "Grace Follow On Laser Ranging Interferometer",
         "planet": "Earth",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "May 22, 2018",
+        "lifespan": "5 years",
+        "support": "MORI provided IT infrastructure support for both GRACE-FO satellites, including legacy systems from the first GRACE mission. They continue to operate and maintain this infrastructure while GRACE-FO is on orbit.",
+        "stats": "Once on-orbit the twin GRACE-FO satellites will follow each other around the Earth studying and recording the pull of gravitational fields.",
+        "overview": "The gravitational differences discovered by the twin GRACE-FO satellites will be used to create maps of the Earth's gravity field. These maps will help us understand how mass, mostly water moves around the Earth."
+    },
+    "cassini": {
+        "name": "Cassini",
+        "planet": "Saturn",
+        "launch": "October 15, 1997",
+        "lifespan": "20 years",
+        "support": "MORI personnel supported Cassini's complex IT systems, testing them prior to launch and maintaining them for the entire mission.",
+        "stats": "After flying for 6 years on its way to Saturn, Cassini spent more than 13 years in orbit around the Ringed Planet.",
+        "overview": "In more than 60 orbits around Saturn, Cassini gave us never before views of the planet's rings, studied its many moons, and dove deep into Saturn's atmosphere."
+    },
+    "europa": {
+        "name": "Europa Clipper",
+        "planet": "Jupiter",
+        "launch": "2022",
+        "lifespan": "3 years",
+        "support": "MORI manages all virtual and physical IT systems for the Clipper, including testing orbiter software, maintaining network security, and supporting network operations.",
+        "stats": "",
+        "overview": "The Europa Clipper will study Jupiter's moon, Europa, investigating recent eruptions of warm water on the planet's frozen surface and see if the moon harbors conditions that could support life."
     },
     "insight" : {
         "name": "InSight",
         "planet": "Mars",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "May 5, 2018",
+        "lifespan": "728 Earth Days",
+        "support": "MORI managed and installed InSight's software and hardware helping to determine the best IT systems needed to meet the unique challenges InSight will encounter on the Martian surface.",
+        "stats": "Insight's Journey to Mars will cover 484 million kilometers (301 million miles) with an expected landing date of November 26, 2018.",
+        "overview": "The InSight robotic explorer will investigate the interior structure of Mars to understand how the Red Planet formed. InSight will also look at Martian earthquakes and meteor impacts as the first probe to study Mars' geology."
     },
     "jason" : {
-        "name": "JASON-3",
+        "name": "Jason-2",
         "planet": "Earth",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "June 20, 2008",
+        "lifespan": "10 years",
+        "support": "MORI operates the complex IT infrastructure that allows Jason-2 to share its findings with researchers around the world including IT security, data access, and network attached storage administration.",
+        "stats": "Jason-2 orbits Earth in an 831 mile (1,336 km) circular, non-sun synchronous orbit, inclined 66% off the equator.",
+        "overview": "Jason-2 views 95% of Earth's ice-free oceans every 10 days, giving scientists information about global sea level, ocean currents, and sea water temperatures, information critical to accurate weather forecasting and climate research."
     },
     "juno" : {
         "name": "Juno",
         "planet": "Jupiter",
-        "launch": "Aug. 5, 2011",
+        "launch": "August 5, 2011",
         "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "support": "MORI provided IT infrastructure support for Juno, including installation of all hardware and software, data storage provisioning, and network operations.",
+        "stats": "Juno traveled 2.8 billion kilometers (1.74 billion miles) to reach Jupiter.",
+        "overview": "The Juno orbiter will circle Jupiter more than 37 times studying the planets make-up, magnetic and gravity fields, atmospheric moisture levels, and mass. The orbiter will also study Jupiter's winds which can reach speeds of 618 MPH."
     },
     "mer" : {
         "name": "Mars Exploration Rover (MER)",
         "planet": "Mars",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "June 10, 2003",
+        "lifespan": "15 years",
+        "support": "For MER, MORI helped develop IT architecture and operates and sustains both rovers' IT infrastructure, which for Opportunity has lasted much longer than expected.",
+        "stats": "",
+        "overview": "Better known by their individual names, Spirit and Opportunity, the MER searches the surface of Mars for signs of past water, to identify what minerals are present on Mars, and to determine if the Martian environment could have once supported life."
     },
     "mcs" : {
         "name": "Mars Climate Sounder",
         "planet": "Mars",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "August 12, 2005",
+        "lifespan": "5 years",
+        "support": "The MRO instrument uses IT infrastructure maintained and operated by MORI. Our personnel installed the instrument hardware and software, network operations, IT security, virtual computing services and data storage.",
+        "stats": "An instrument on the Mars Reconnaissance Orbiter (MRO) the Mars Climate Sounder looks at the Martian atmosphere in vertical slices measuring 3 miles down into each slice.",
+        "overview": "The MRO studies the temperature, humidity and dust content of the Mars atmosphere tracking the changes in Martian weather and climate. Using this data scientists try to understand how the Martian atmosphere interacts with the sun and changes over time."
     },
     "mro" : {
         "name": "Mars Reconnaissance Orbiter (MRO)",
         "planet": "Mars",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "August 12, 2005",
+        "lifespan": "5 years",
+        "support": "MORI supports the MRO with hardware and operating systems implementation, operations and trouble shooting. We monitor the Orbiter's systems, including storage devices, virtual machines, and servers. Our personnel ensure that the MRO IT systems are up to date, operate as required, and function when needed.",
+        "stats": "The Mars Reconnaissance Orbiter (MRO) Traveled at a peak speed of 6,487 MPH on its way to the Red Planet. Once on-orbit it maintained a speed on orbit of 2.113 miles per second.",
+        "overview": "The MRO uses a combination of instruments that take close-up pictures of the Martian surface, study surface minerals, and monitor the planet's daily global weather. The mission goal is to detect shorelines of ancient seas and lakes by analyzing mineral deposits left by flowing water."
     },
     "msl" : {
         "name": "Mars Science Laboratory (MSL)",
         "planet": "Mars",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "November 26, 2011",
+        "lifespan": "Originally scheduled to operate for 687 days on the Martian surface, the MSL rover has already logged more than 2100 days of Mars exploration.",
+        "support": "The technicians and engineers at MORI support the MSL with overall IT Infrastructure support including VMware, virtual and physical RHEL, and all system workstations and servers. They also support the legacy hardware and software systems associated with this extended mission and are developing plans to migrate to new systems as the mission continues.",
+        "stats": "At lift-off the MSL weighed nearly 1.2 million pounds and was made up of three distinct systems, including the Cruise Stage which protected the MSL and it's instruments during the long trip to Mars. During flight the rover's flight computer monitored the health of the spacecraft and sent updates to mission controllers back on Earth.",
+        "overview": "The MSL studies diverse environments on Mars using it's long-range mobility to capture and analyze samples from multiple locations. Aside from its surface research mission, MSL holds the record for the most accurate landing on the Martian surface touching down within a 12.4 mile target area."
     },
     "marsr" : {
         "name": "Mars 2020",
         "planet": "Mars",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "August 1, 2020",
+        "lifespan": "The Mars 2020 Rover is scheduled to conduct experiments on the Martian Surface for at least 669 days, one Martian year.",
+        "support": "For the Mars 2020 Rover MORI personnel are working on assembly, testing rover components, and supporting launch operations. We are also providing the mission's IT infrastructure including automated computer provisioning, hardware and software installation, data storage and network operations.",
+        "stats": "Scheduled to launch in summer 2020 this next generation Mars Rover will spend about 9 months in flight to the Red Planet, landing at one of three still to be selected sites.",
+        "overview": "The Rover will have a multi-faceted mission to define the Martian climate, look at the planet's geology, determine if life ever existed on Mars, and prepare for future human exploration of Mars."
     },
     "maven" : {
         "name": "Maven",
         "planet": "Mars",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "November 18, 2013",
+        "lifespan": "The Maven mission lasted one Earth year and the probe continues to function as a relay point for surface rovers and other probes in orbit around Mars.",
+        "support": "With the Maven probe now serving a new role in orbit on Mars, MORI continues to support IT infrastructure, network operations, data storage and legacy hardware and software support.",
+        "stats": "The Maven probe reached Mars in September of 2014 and continues on orbit 6,200km above the Martian Surface.",
+        "overview": "The probe's primary mission was to study and determine how the Martian atmosphere and water were lost over time."
     },
     "odyssey" : {
         "name": "Odyssey",
         "planet": "Mars",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "April 7, 2001",
+        "lifespan": "Originally scheduled to execute it's primary science mission over 3 years, Odyssey continues to use three instruments to study the Martian surface and environment.",
+        "support": "For the life of the Odyssey mission, MORI personnel have operated and sustained the IT infrastructure of the orbiter and its instruments. This includes IT security, data management, and legacy hardware and software support.",
+        "stats": "Odyssey traveled for just over 6 months to reach Mars where it established an orbit that it has held for more than 16 years.",
+        "overview": "Odyssey uses spectrometers and thermal imaging to look for evidence of water and ice on Mars either now or in the distant past. The orbiter also studies the radiation environment on Mars to help determine radiation risks for future manned exploration of the Martian surface."
     },
     "osiris" : {
         "name": "OSIRIS-REx",
-        "planet": "Earth",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
-    },
-    "smap" : {
-        "name": "Soil Moisture Active Passive (SMAP)",
-        "planet": "Earth",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "planet": "Bennu",
+        "launch": "September 8, 2016",
+        "lifespan": "The mission is scheduled to last a total of 7 years including 4 years in fight to and from Bennu and 505 days on-orbit around the asteroid.",
+        "support": "MORI provides operations and sustainment of the IT systems and network supporting the OSIRIS-REx mission. Our technicians and systems engineers install hardware and software systems; maintain IT security, and manage data storage.",
+        "stats": "The OSIRIS-REx probe is expected to reach the Bennu asteroid in late 2018 after traveling over two-years.",
+        "overview": "OSIRIS-REx is a sample return mission that will bring samples from the Bennu asteroid back to Earth around 2023. The samples will be studied to help us learn more about the formation and early days of our solar system. OSIRIS-REx is the first asteroid sample return mission conducted by the US."
     },
     "spitzer" : {
-        "name": "Spitzer",
+        "name": "Spitzer Space Telescope",
         "planet": "Earth",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "August 25, 2003",
+        "lifespan": "Spitzer's primary mission lifecycle was scheduled to last just over 5 years but it is still in service more than 14 years after launch.",
+        "support": "MORI supported the IT hardware, software and operating systems used on the Spitzer Telescope. They regularly monitor system operations, IT security, and user accounts. MORI also works with users to refine and standardize IT and data configurations.",
+        "stats": "The Spitzer telescope orbits around the Earth but doesn't orbit the Earth like other satellites. Spitzer travels in a heliocentric orbit, slowly drifting away and trailing the earth.",
+        "overview": "The Spitzer Telescope provides unique views of our universe using infrared technology to view objects not seen by optical telescopes."
     },
     "swot" : {
         "name": "Surface Water Ocean Topography (SWOT)",
         "planet": "Earth",
-        "launch": "Aug. 5, 2011",
-        "lifespan": "7 years",
-        "support": "Assembly, Test and Launch Operations (ALTO), IT infrastructure support - compute provisioning, installation of HW and SW, troubleshooting HW and SW, security patching, network operations and maintenance, Mission Voice system support, break/fix, solutioning, and data storage support. Purchase Recommendation, Ordering, Deployment, and provisioning of Data Storage Systems.",
-        "stats": "The spacecraft traveled a total distance of roughly 2.8 billion kilometers (18.7 astronomical units; 1.74 billion miles) to reach Jupiter. The spacecraft was designed to orbit Jupiter 37 times over the course of its mission.",
-        "overview": "Juno's mission is to measure Jupiter's composition, gravity field, magnetic field, and polar magnetosphere. It will also search for clues about how the planet formed, including whether it has a rocky core, the amount of water present within the deep atmosphere, mass distribution, and its deep winds, which can reach speeds up to 618 kilometers per hour (384 mph)."
+        "launch": "April 16, 2021",
+        "lifespan": "SWOT is designed to be in service for about 3.5 years.",
+        "support": "For SWOT MORI is building out the satellite's IT infrastructure, defining the network data management approaches, and providing IT security to the satellites data networks.",
+        "stats": "SWOT will fly in a Low Earth Orbit circling the globe every 112 minutes and the satellite's pattern will cover the same areas every 21 days.",
+        "overview": "The SWOT satellite will provide the first global survey of the Earth's surface water. It will use its 21-day orbital repeat interval to observe the oceans' topography and measure how surface water changes over time."
     }
 }
