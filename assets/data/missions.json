@@ -4,7 +4,7 @@
       "planet": "Earth",
       "launch": "May 4, 2002",
       "lifespan": "7 years",
-      "support": "MORI operates and sustains AIRS making sure its computer hardware and software, data storage, and ground-based IT network is secure and providing critical weather prediction information.",
+      "support": "For AIRS, MORI staff operate and sustain its ground-based computer hardware and software, data storage, and IT network ensuring they are secure and providing critical weather prediction information.",
       "stats": "",
       "overview": "AIRS uses Infrared Technology to create 3D maps of air and surface temperature, water vapor, and clouds to improve weather forecasting and climate research."
     },
@@ -22,7 +22,7 @@
         "planet": "Saturn",
         "launch": "October 15, 1997",
         "lifespan": "20 years",
-        "support": "MORI personnel supported Cassini's complex IT systems, testing them prior to launch and maintaining them for the entire mission.",
+        "support": "MORI personnel supported Cassini's complex ground-based IT systems, testing them prior to launch and maintaining them throughout the entire mission.",
         "stats": "After flying for 6 years on its way to Saturn, Cassini spent more than 13 years in orbit around the Ringed Planet.",
         "overview": "In more than 60 orbits around Saturn, Cassini gave us never before views of the planet's rings, studied its many moons, and dove deep into Saturn's atmosphere."
     },
@@ -31,7 +31,7 @@
         "planet": "Jupiter",
         "launch": "2022",
         "lifespan": "3 years",
-        "support": "MORI manages all virtual and physical IT systems for the Clipper, including testing orbiter software, maintaining network security, and supporting network operations.",
+        "support": "MORI manages the virtual and physical IT systems for the Clipper, including maintaining and updating orbiter software, maintaining network security, and supporting network operations.",
         "stats": "",
         "overview": "The Europa Clipper will study Jupiter's moon, Europa, investigating recent eruptions of warm water on the planet's frozen surface and see if the moon harbors conditions that could support life."
     },
@@ -40,16 +40,17 @@
         "planet": "Mars",
         "launch": "May 5, 2018",
         "lifespan": "728 Earth Days",
-        "support": "MORI managed and installed InSight's software and hardware helping to determine the best IT systems needed to meet the unique challenges InSight will encounter on the Martian surface.",
+        "support": "MORI personnel installed the physical and virtual ground-based IT infrastructure for the InSight lander providing support from the assembly phase though the successful landing on the surface of Mars and now into its mission phase.",
         "stats": "Insight's Journey to Mars will cover 484 million kilometers (301 million miles) with an expected landing date of November 26, 2018.",
-        "overview": "The InSight robotic explorer will investigate the interior structure of Mars to understand how the Red Planet formed. InSight will also look at Martian earthquakes and meteor impacts as the first probe to study Mars' geology."
+        "overview": "The InSight robotic explorer will investigate the interior structure of Mars to understand how the Red Planet formed. InSight will also look at Martian earthquakes and meteor impacts as the first probe to study Mars' geology.",
+        "lander": "true"
     },
     "jason" : {
         "name": "Jason-2",
         "planet": "Earth",
         "launch": "June 20, 2008",
         "lifespan": "10 years",
-        "support": "MORI operates the complex IT infrastructure that allows Jason-2 to share its findings with researchers around the world including IT security, data access, and network attached storage administration.",
+        "support": "MORI operates the complex ground-based IT infrastructure allowing Jason-2 to share its findings with researchers around the world. Our support includes system administration, IT security, data access, and network attached storage administration.",
         "stats": "Jason-2 orbits Earth in an 831 mile (1,336 km) circular, non-sun synchronous orbit, inclined 66% off the equator.",
         "overview": "Jason-2 views 95% of Earth's ice-free oceans every 10 days, giving scientists information about global sea level, ocean currents, and sea water temperatures, information critical to accurate weather forecasting and climate research."
     },
@@ -58,7 +59,7 @@
         "planet": "Jupiter",
         "launch": "August 5, 2011",
         "lifespan": "7 years",
-        "support": "MORI provided IT infrastructure support for Juno, including installation of all hardware and software, data storage provisioning, and network operations.",
+        "support": "For the Juno Jupitor orbiter, MORI personnal installed and maintained the server and software infrastructure required for the Juniper Orbit Instertion (JOI) in July of 2016.",
         "stats": "Juno traveled 2.8 billion kilometers (1.74 billion miles) to reach Jupiter.",
         "overview": "The Juno orbiter will circle Jupiter more than 37 times studying the planets make-up, magnetic and gravity fields, atmospheric moisture levels, and mass. The orbiter will also study Jupiter's winds which can reach speeds of 618 MPH."
     },
@@ -67,16 +68,17 @@
         "planet": "Mars",
         "launch": "June 10, 2003",
         "lifespan": "15 years",
-        "support": "For MER, MORI helped develop IT architecture and operates and sustains both rovers' IT infrastructure, which for Opportunity has lasted much longer than expected.",
+        "support": "For MER, MORI assisted in the development of the IT architecture and now operates and sustains both rovers' IT infrastructure. The rovers, along with this architecture, remained operational much longer than expected.",
         "stats": "",
-        "overview": "Better known by their individual names, Spirit and Opportunity, the MER searches the surface of Mars for signs of past water, to identify what minerals are present on Mars, and to determine if the Martian environment could have once supported life."
+        "overview": "Better known by their individual names, Spirit and Opportunity, the MER searches the surface of Mars for signs of past water, to identify what minerals are present on Mars, and to determine if the Martian environment could have once supported life.",
+        "lander": "true"
     },
     "mcs" : {
         "name": "Mars Climate Sounder",
         "planet": "Mars",
         "launch": "August 12, 2005",
         "lifespan": "5 years",
-        "support": "The MRO instrument uses IT infrastructure maintained and operated by MORI. Our personnel installed the instrument hardware and software, network operations, IT security, virtual computing services and data storage.",
+        "support": "The MRO instrument uses IT infrastructure maintained and operated by MORI. Our personnel installed the infrastructure hardware and software, supporting networks, IT security, virtual computing services and data storage and are currently responsible for systems support.",
         "stats": "An instrument on the Mars Reconnaissance Orbiter (MRO) the Mars Climate Sounder looks at the Martian atmosphere in vertical slices measuring 3 miles down into each slice.",
         "overview": "The MRO studies the temperature, humidity and dust content of the Mars atmosphere tracking the changes in Martian weather and climate. Using this data scientists try to understand how the Martian atmosphere interacts with the sun and changes over time."
     },
@@ -85,7 +87,7 @@
         "planet": "Mars",
         "launch": "August 12, 2005",
         "lifespan": "5 years",
-        "support": "MORI supports the MRO with hardware and operating systems implementation, operations and trouble shooting. We monitor the Orbiter's systems, including storage devices, virtual machines, and servers. Our personnel ensure that the MRO IT systems are up to date, operate as required, and function when needed.",
+        "support": "MORI supports the MRO with hardware and operating systems implementation, operations and trouble shooting. We maintain the IT infrastructure including storage devices, virtual machines, and servers enabling scientists to perform data research. Our personnel ensure that the MRO IT systems are secure and functioning for the MRO mission.",
         "stats": "The Mars Reconnaissance Orbiter (MRO) Traveled at a peak speed of 6,487 MPH on its way to the Red Planet. Once on-orbit it maintained a speed on orbit of 2.113 miles per second.",
         "overview": "The MRO uses a combination of instruments that take close-up pictures of the Martian surface, study surface minerals, and monitor the planet's daily global weather. The mission goal is to detect shorelines of ancient seas and lakes by analyzing mineral deposits left by flowing water."
     },
@@ -94,25 +96,27 @@
         "planet": "Mars",
         "launch": "November 26, 2011",
         "lifespan": "Originally scheduled to operate for 687 days on the Martian surface, the MSL rover has already logged more than 2100 days of Mars exploration.",
-        "support": "The technicians and engineers at MORI support the MSL with overall IT Infrastructure support including VMware, virtual and physical RHEL, and all system workstations and servers. They also support the legacy hardware and software systems associated with this extended mission and are developing plans to migrate to new systems as the mission continues.",
+        "support": "The technicians and engineers at MORI support the MSL with overall IT infrastructure support for all system workstations and servers. They also support the legacy hardware and software systems associated with this extended mission and are developing plans to migrate to new systems as the mission continues.",
         "stats": "At lift-off the MSL weighed nearly 1.2 million pounds and was made up of three distinct systems, including the Cruise Stage which protected the MSL and it's instruments during the long trip to Mars. During flight the rover's flight computer monitored the health of the spacecraft and sent updates to mission controllers back on Earth.",
-        "overview": "The MSL studies diverse environments on Mars using it's long-range mobility to capture and analyze samples from multiple locations. Aside from its surface research mission, MSL holds the record for the most accurate landing on the Martian surface touching down within a 12.4 mile target area."
+        "overview": "The MSL studies diverse environments on Mars using it's long-range mobility to capture and analyze samples from multiple locations. Aside from its surface research mission, MSL holds the record for the most accurate landing on the Martian surface touching down within a 12.4 mile target area.",
+        "lander": "true"
     },
     "marsr" : {
         "name": "Mars 2020",
         "planet": "Mars",
         "launch": "August 1, 2020",
         "lifespan": "The Mars 2020 Rover is scheduled to conduct experiments on the Martian Surface for at least 669 days, one Martian year.",
-        "support": "For the Mars 2020 Rover MORI personnel are working on assembly, testing rover components, and supporting launch operations. We are also providing the mission's IT infrastructure including automated computer provisioning, hardware and software installation, data storage and network operations.",
+        "support": "The upcoming Mars 2020 mission represents a paradigm shift for how JPL builds and maintains IT infrastructure. Since project inception, MORI personnel have been involved as JPL moves from the traditional server based infrastructure to a more modern architecture which includes cloud technologies.",
         "stats": "Scheduled to launch in summer 2020 this next generation Mars Rover will spend about 9 months in flight to the Red Planet, landing at one of three still to be selected sites.",
-        "overview": "The Rover will have a multi-faceted mission to define the Martian climate, look at the planet's geology, determine if life ever existed on Mars, and prepare for future human exploration of Mars."
+        "overview": "The Rover will have a multi-faceted mission to define the Martian climate, look at the planet's geology, determine if life ever existed on Mars, and prepare for future human exploration of Mars.",
+        "lander": "true"
     },
     "maven" : {
         "name": "Maven",
         "planet": "Mars",
         "launch": "November 18, 2013",
         "lifespan": "The Maven mission lasted one Earth year and the probe continues to function as a relay point for surface rovers and other probes in orbit around Mars.",
-        "support": "With the Maven probe now serving a new role in orbit on Mars, MORI continues to support IT infrastructure, network operations, data storage and legacy hardware and software support.",
+        "support": "With the Maven probe now serving a new role in orbit around Mars, MORI personnel continue to support its IT infrastructure, network operations, and data storage with system administration and hardware/software support.",
         "stats": "The Maven probe reached Mars in September of 2014 and continues on orbit 6,200km above the Martian Surface.",
         "overview": "The probe's primary mission was to study and determine how the Martian atmosphere and water were lost over time."
     },
@@ -132,14 +136,24 @@
         "lifespan": "The mission is scheduled to last a total of 7 years including 4 years in fight to and from Bennu and 505 days on-orbit around the asteroid.",
         "support": "MORI provides operations and sustainment of the IT systems and network supporting the OSIRIS-REx mission. Our technicians and systems engineers install hardware and software systems; maintain IT security, and manage data storage.",
         "stats": "The OSIRIS-REx probe is expected to reach the Bennu asteroid in late 2018 after traveling over two-years.",
-        "overview": "OSIRIS-REx is a sample return mission that will bring samples from the Bennu asteroid back to Earth around 2023. The samples will be studied to help us learn more about the formation and early days of our solar system. OSIRIS-REx is the first asteroid sample return mission conducted by the US."
+        "overview": "OSIRIS-REx is a sample return mission that will bring samples from the Bennu asteroid back to Earth around 2023. The samples will be studied to help us learn more about the formation and early days of our solar system. OSIRIS-REx is the first asteroid sample return mission conducted by the US.",
+        "lander": "true"
+    },
+    "smap": {
+        "name": "Soil Moisture Active Passive (SMAP)",
+        "planet": "Earth",
+        "launch": "January 29, 2015",
+        "lifespan": "SMAP is designed to be in service for about 3.1 years.",
+        "support": "MORI personnel deployed and are maintaining the IT infrastructure to measure the water content of earth's soil. Due to SMAP's extended mission, MORI personnel helped re-architect the IT infrastructure and are in the process enhancing performance by migrating to a more scalable architecture.",
+        "stats": "SMAP flies in a polar orbit, allowing for global measurements every 2 to 3 days.",
+        "overview": "SMAP will provide a capability for global mapping of soil moisture and freeze/thaw state with unprecedented accuracy, resolution, and coverage. SMAP science objectives are to acquire space-based hydrosphere state measurements over a three-year period."
     },
     "spitzer" : {
         "name": "Spitzer Space Telescope",
         "planet": "Earth",
         "launch": "August 25, 2003",
         "lifespan": "Spitzer's primary mission lifecycle was scheduled to last just over 5 years but it is still in service more than 14 years after launch.",
-        "support": "MORI supported the IT hardware, software and operating systems used on the Spitzer Telescope. They regularly monitor system operations, IT security, and user accounts. MORI also works with users to refine and standardize IT and data configurations.",
+        "support": "MORI supported the IT hardware, software and operating systems used on the Spitzer Telescope. They regularly monitor infrastructure stability, IT security, and user accounts. MORI personnel also work with users to refine and standardize IT and data configurations.",
         "stats": "The Spitzer telescope orbits around the Earth but doesn't orbit the Earth like other satellites. Spitzer travels in a heliocentric orbit, slowly drifting away and trailing the earth.",
         "overview": "The Spitzer Telescope provides unique views of our universe using infrared technology to view objects not seen by optical telescopes."
     },
@@ -148,7 +162,7 @@
         "planet": "Earth",
         "launch": "April 16, 2021",
         "lifespan": "SWOT is designed to be in service for about 3.5 years.",
-        "support": "For SWOT MORI is building out the satellite's IT infrastructure, defining the network data management approaches, and providing IT security to the satellites data networks.",
+        "support": "For SWOT, MORI staff are building out the satellite's IT infrastructure, defining the network data management approaches, and providing IT security to the satellites data networks.",
         "stats": "SWOT will fly in a Low Earth Orbit circling the globe every 112 minutes and the satellite's pattern will cover the same areas every 21 days.",
         "overview": "The SWOT satellite will provide the first global survey of the Earth's surface water. It will use its 21-day orbital repeat interval to observe the oceans' topography and measure how surface water changes over time."
     }
